@@ -1,0 +1,4 @@
+RegisteredAndUnderLimit,1000,true,30
+RegisteredAndOverLimit,1000000,true,500
+UnRegisteredAndUnderLimit,1000,false,10
+UnRegisteredAndOverLimit,1000000,false,500
